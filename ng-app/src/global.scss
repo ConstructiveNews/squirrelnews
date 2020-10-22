@@ -92,7 +92,7 @@ position of the pager to keep pager in view.
 @media only screen and (min-height: 1350px){
   ion-slides {
     --bullet-background-active: black;
-    height: 105%;
+    height: auto;
   }
 
   .swiper-slide, .swiper-pagination {
