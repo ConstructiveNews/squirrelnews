@@ -71,7 +71,7 @@ export const EN = {
   },
   links: {
     instagram: 'https://www.instagram.com/squirrelnews/',
-    twitter: 'https://twitter.com/SquirrelNewsNet',
+    twitter: 'https://twitter.com/squirrelnews_en',
     facebook: 'https://www.facebook.com/squirrelnews'
   },
   privacyPolicy: {
